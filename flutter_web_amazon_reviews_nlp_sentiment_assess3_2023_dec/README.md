@@ -1,6 +1,6 @@
-# joiner_app_test_chuck_norris
+# Amazon-sentiment-analysis-project
 
-A new Flutter project for Joiner technical interview
+A new Flutter web project for amazon sentiment analysis
 
 # Getting Started
 
@@ -36,3 +36,6 @@ A new Flutter project for Joiner technical interview
 
 # 07 Build release android apk
 - `flutter build apk --release`
+
+# 08 Build web
+- `flutter build web`
