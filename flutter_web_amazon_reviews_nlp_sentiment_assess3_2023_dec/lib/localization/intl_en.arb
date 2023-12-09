@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+
+  "dashboard_app_bar_title_categories" : "Chuck Norris Joke categories",
+  "joke_by_category_title" : "Joke by ",
+  "joke_by_category_not_found" : "No joke was found by this category",
+
+  "dashboard_app_bar_title_search" : "Chuck Norris search jokes",
+  "search_no_results" : "No results found",
+  "search_enter_word": "Enter a word",
+  "search_search_title": "Analyze Amazon Review",
+  "search_minimum_words": "Minimum 3 characters required",
+
+  "generic_favorites": "Favorites",
+  "dashboard_app_bar_title_favorites" : "Favorite jokes",
+  "favorites_empty_list" : "No favorite jokes yet!",
+
+  "generic_error": "Error",
+  "generic_search": "Search",
+  "generic_categories": "Categories"
+}
