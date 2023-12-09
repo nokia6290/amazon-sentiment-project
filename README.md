@@ -1,5 +1,9 @@
 # amazon-sentiment-project
 
+A project that labels amazon review 'Positive review' or 'Negative review'.
+
+**Accurracy 80.39%**
+
 Project consisting of:
 
 1) AI trained sentiment model using Random Forest classifier on Google colab and exported as .pkl format, and accessible via python API
